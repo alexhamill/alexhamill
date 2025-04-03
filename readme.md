@@ -5,13 +5,15 @@ Welcome to my GitHub profile! I'm a student at HB Woodlawn and arlington carer c
 ## 🔭 Current Projects
 - **[Arena planning](https://github.com/ArenaPlanning/ArenaPlanning.github.io)**: Scheduling website for my school.
 - **[Alexhamill.com](https://github.com/alexhamill/alexhamill.com)**: My Website.
+- **[HBW Greentrails](https://github.com/alexhamill/HBWGreentrails)**: A wesbite for my schools Green Trails club
 
-## 🌱 Learning and Growth
-- Currently learning about advanced algorithms and data structures.
-- Exploring the world of machine learning and AI.
+## Certifications
+- C++ certification with EDUBE.org - [verifierication](https://verify.openedg.org/?id=SPgw.5idn.xs6E)
+- Webdesign certification with EDUBE.org - [verification](https://verify.openedg.org/?id=fOae.0GWS.fQme)
 
 ## 💬 Ask Me About
 - Web development (React, Node.js, etc.)
+- C++
 
 ## 📫 How to Reach Me
 - **Email**: [alexhamill@icloud.com](mailto:alexhamill@icloud.com)
