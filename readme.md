@@ -3,9 +3,9 @@
 Welcome to my GitHub profile! I'm a student at HB Woodlawn and arlington carer center, I am currently learning react website development, C++ and Discrete Structures. 
 
 ## 🔭 Current Projects
-- **[Arena planning](https://github.com/ArenaPlanning/ArenaPlanning.github.io)**: Scheduling website for my school.
-- **[Alexhamill.com](https://github.com/alexhamill/alexhamill.com)**: My Website.
-- **[HBW Greentrails](https://github.com/alexhamill/HBWGreentrails)**: A wesbite for my schools Green Trails club
+- **[Arena planning](https://github.io/ArenaPlanning/ArenaPlanning.github.io)**: Scheduling website for my school.
+- **[Alexhamill.com](https://github.io/alexhamill/alexhamill.com)**: My Website.
+- **[HBW Greentrails](https://github.io/alexhamill/HBWGreentrails)**: A wesbite for my schools Green Trails club.
 
 ## Certifications
 - C++ certification with EDUBE.org - [verifierication](https://verify.openedg.org/?id=SPgw.5idn.xs6E)
